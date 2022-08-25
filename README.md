@@ -7,7 +7,7 @@
 - Built the landing page UI using Tailwindcss and implemnted some css animations and transtions.
 - Used javascript to create hamburger menu for responsive UI.
 - Designed the landing page mobile friendly.
-- Deployed with github pages [Booksy App](https://mahmoudsaidx.github.io/booksy/)
+- Deployed with github pages [Manage Page](https://mahmoudsaidx.github.io/tailwindcss-landing-page/)
 
 # Resources
 
